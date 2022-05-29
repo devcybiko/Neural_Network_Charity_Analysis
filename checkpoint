@@ -1,0 +1,2 @@
+model_checkpoint_path: "AlphabetSoupCharity_Optimization.chk"
+all_model_checkpoint_paths: "AlphabetSoupCharity_Optimization.chk"
